@@ -1,0 +1,179 @@
+body , html {
+	margin: 0px;
+	padding: 0px;
+
+	width: 1365px;
+	height: 369px;
+}
+
+ul {
+	margin-bottom: 0px;
+}
+
+a {
+	text-decoration:none;
+}
+
+.bar {
+	display: inline-block;
+	float: right;
+	width: auto;
+	height: 30px;
+
+	margin-top: 20px;
+	margin-right: 30px;
+}
+
+.bar a {
+	color: black;
+	font-size: 13px;
+}
+
+.menu {
+	width: 35px;
+	height: 35px;
+
+	margin-top: -5px;
+}
+
+.bar a {
+	padding-right: 5px;
+	vertical-align: top;
+	line-height: 30px;
+}
+
+.conex {
+	width: 93px;
+	height: 30px;
+    
+    color: white;
+	background-color: blue;
+	cursor: pointer;
+}
+
+.google {
+
+	width: 272px;
+	height: 92px;
+    
+    margin-top: 190px;
+    margin-left: 540px;
+    margin-bottom: 20px;
+}
+
+.bar-recherche {
+	width: 1320px;
+	margin: auto;
+
+	margin-bottom: 20px;
+}
+
+input {
+    width: 584px;
+    height: 44px;
+
+    margin-left: 350px;
+
+    box-shadow: 5px 3px 10px black;
+
+}
+
+.recherche {
+    width: 596px;
+
+    margin: auto;
+
+    text-align: center;
+
+    margin-bottom: 30px;
+}
+
+
+.bouton {
+	width: 180px;
+	height: 36px;
+
+	color: black;
+
+}
+
+.bouton:hover {
+	color: black;
+}
+
+
+.r-google {
+	display: inline-block;
+	margin-right: 20px;
+
+}
+
+.chance-google {
+	display: inline-block;
+}
+
+
+
+
+
+.langue {
+	width: 1320px;
+	margin: auto;
+
+	text-align: center;
+}
+
+.mada {
+	width: auto;
+	height: 30px;
+    
+    font-size: 13px;
+
+	line-height: 30px;
+
+    margin-top: 53px;
+	margin-bottom: 0px;
+
+	padding-left: 40px;
+
+    border-top: 0.5px solid grey;
+}
+
+
+
+/*************list*****************/
+
+.list {
+    margin-bottom: -50px;
+
+    border-top: 0.5px solid grey;
+}
+
+.list1 {
+	float: left;
+
+	margin-bottom: -50px; 
+}
+
+.list2 {
+	float: right;
+}
+
+.font {
+	font-size: 13px;
+	padding-right: 5px;
+
+}
+
+.list ul li {
+	margin-bottom: 10px;
+}
+
+.list ul li a {
+	color: black;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
